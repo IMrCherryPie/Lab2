@@ -1,0 +1,7 @@
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\bin\Debug\ControlMind.exe.config
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\bin\Debug\ControlMind.exe
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\bin\Debug\ControlMind.pdb
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\obj\Debug\ControlMind.csprojAssemblyReference.cache
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\obj\Debug\ControlMind.csproj.CoreCompileInputs.cache
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\obj\Debug\ControlMind.exe
+C:\Users\Cherr\source\repos\ControlMind\ControlMind\obj\Debug\ControlMind.pdb

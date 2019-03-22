@@ -1,0 +1,6 @@
+D:\6 семестр\Васильев\laba2\laba2\bin\Debug\laba2.dll
+D:\6 семестр\Васильев\laba2\laba2\bin\Debug\laba2.pdb
+D:\6 семестр\Васильев\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+D:\6 семестр\Васильев\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\laba2\laba2\obj\Debug\laba2.dll
+D:\6 семестр\Васильев\laba2\laba2\obj\Debug\laba2.pdb
