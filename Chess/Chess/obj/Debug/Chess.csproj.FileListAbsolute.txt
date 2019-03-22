@@ -1,0 +1,7 @@
+D:\6 семестр\Васильев\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\6 семестр\Васильев\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\6 семестр\Васильев\Chess\Chess\bin\Debug\Chess.exe.config
+D:\6 семестр\Васильев\Chess\Chess\bin\Debug\Chess.exe
+D:\6 семестр\Васильев\Chess\Chess\bin\Debug\Chess.pdb
+D:\6 семестр\Васильев\Chess\Chess\obj\Debug\Chess.exe
+D:\6 семестр\Васильев\Chess\Chess\obj\Debug\Chess.pdb
